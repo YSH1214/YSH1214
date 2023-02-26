@@ -1,3 +1,3 @@
 <div align="center>
-![body][Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSH1214&show_icons=true&theme=flag-india)
+![Farmer](https://github-readme-stats.vercel.app/api?username=YSH1214&show_icons=true&theme=flag-india)
 </div
