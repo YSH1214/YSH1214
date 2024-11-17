@@ -31,6 +31,6 @@
     <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
         <div style="text-align: left;"> 
               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSH1214&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
- <https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+ <img src=https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
           /> </div> 
     </div>
